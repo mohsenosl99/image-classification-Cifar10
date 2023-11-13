@@ -1,0 +1,6 @@
+# Model hyperparameters
+learning_rate: 0.001
+batch_size: 256
+epochs: 50
+block: 'ResNext'
+
